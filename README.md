@@ -20,10 +20,10 @@ Welcome to **KYM MD**!
 ---
 
 ---
-## 🚀 Steps to Deploy
+## 🚀 Steps to Deploy kym md
 
 1. **Fork the Repository**  
-   - [![Fork Toxic-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/Kym-tech/fork)
+   - [![Fork kym-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/Kym-tech/fork)
 
 
 2. **Pairing etc**  
