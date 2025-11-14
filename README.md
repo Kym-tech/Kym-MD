@@ -1,4 +1,4 @@
-# `THIS IS **KYM-MD** LATEST WHATSAPP BOT`
+# `THIS IS KYM-MD LATEST WHATSAPP BOT`
 
 ---
 
@@ -23,7 +23,7 @@ You are Welcomed to **KYM MD**!
 ## 🚀 These are the Steps to Deploy KYM-MD
 
 1. **Fork the Repository HERE**  
-   - [![Fork kym-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/Kym-tech/fork)
+   - [![Fork kym MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/Kym-MD/fork)
 
 
 2. **Pairing etc**  
