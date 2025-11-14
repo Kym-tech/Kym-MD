@@ -13,7 +13,7 @@ Welcome to **KYM MD**!
   
 
 
-![Banner]([![image.png](https://i.postimg.cc/W3ZWYcXh/image.png)](https://postimg.cc/S2yfj30h))
+![Banner]([![image.png](https://i.postimg.cc/W3ZWYcXh/image.png](https://postimg.cc/S2yfj30h))
 
 ---
 
