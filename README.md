@@ -1,8 +1,8 @@
-# `𝙏𝙤𝙭𝙞𝙘 𝙈𝘿 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽𝙤𝙩`
+# `kym MD whatsap bot`
 
 ---
 
-Welcome to **Toxic MD**! 
+Welcome to **KYM MD**! 
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to **Toxic MD**!
   
 
 
-![Banner](https://i.imgur.com/FkPuFOj.jpeg)
+![Banner]([![image.png](https://i.postimg.cc/W3ZWYcXh/image.png)](https://postimg.cc/S2yfj30h))
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to **Toxic MD**!
 ## 🚀 Steps to Deploy
 
 1. **Fork the Repository**  
-   - [![Fork Toxic-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/xhclintohn/Toxic-MD/fork)
+   - [![Fork Toxic-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/Kym-tech/fork)
 
 
 2. **Pairing etc**  
