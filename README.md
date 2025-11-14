@@ -1,15 +1,15 @@
-# `kym MD whatsap bot`
+# `THIS IS **KYM-MD** LATEST WHATSAPP BOT`
 
 ---
 
-Welcome to **KYM MD**! 
+You are Welcomed to **KYM MD**! 
 
 ---
 
 ### `NT`
 
-- ✓ **Multi-Device Enabled**  
-- ✓ **Baileys Powered**  
+- ✓ **It`s Multi-Device Enabled**  
+- ✓ **Also Powered by Baileys**  
   
 
 
@@ -20,9 +20,9 @@ Welcome to **KYM MD**!
 ---
 
 ---
-## 🚀 Steps to Deploy kym md
+## 🚀 These are the Steps to Deploy KYM-MD
 
-1. **Fork the Repository**  
+1. **Fork the Repository HERE**  
    - [![Fork kym-MD Here](https://img.shields.io/badge/Fork%20Toxic--MD%20Here-Click%20Here-brightgreen?style=for-the-badge&logo=git)](https://github.com/Kym-tech/fork)
 
 
@@ -39,7 +39,7 @@ Welcome to **KYM MD**!
 ## 🔗 Essential Links  
 
 - **Developer Contact**  
-  [![WhatsApp](https://img.shields.io/badge/Contact%20Developer-**Click%20Here**-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=254735342808)
+  [![WhatsApp](https://img.shields.io/badge/Contact%20Developer-**Click%20Here**-brightgreen?logo=whatsapp&style=for-the-badge&logoColor=white)](https://api.whatsapp.com/send?phone=254740788541)
 
 --- 
 
@@ -59,7 +59,7 @@ Welcome to **KYM MD**!
 **Get Session ID:**
 
     ```
-    Visit: https://toxicpairing.site
+    Visit:https://github.com/Kym-tech
     Pair with WhatsApp via > Linked Devices
     ```
 
