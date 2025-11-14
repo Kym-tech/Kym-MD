@@ -1,5 +1,5 @@
 {
-  "name": "Toxic-MD",
+  "name": "KYM-MD",
   "version": "2.0.0",
   "description": "A simple baileys powered WhatsApp bot multidevice",
   "main": "toxic.js",
@@ -10,17 +10,17 @@
     "c": "tsc"
   },
   "keywords": [
-    "toxicmdbot",
+    "kymmdbot",
     "freewhatsappbot",
     "botwhatsapp",
-    "Toxic-MD",
+    "KYM-MD",
     "toxicmd",
     "wabot",
     "toxicmultidevice",
     "whatsappbot",
-    "Toxic-Bot"
+    "Kym-Bot"
   ],
-  "author": "xhclinton",
+  "author": "Bethwel-kym",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
